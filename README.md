@@ -1,2 +1,1 @@
-# Arduino-Garage-Door
-An Arduino based garage door auto open with sensor and motor
+This project implements an Arduino-based automated garage system that utilizes an ultrasonic sensor to detect a vehicle’s presence, a servo motor to open/close the garage door, and an LED for automated lighting control. The system provides convenience, reduces manual effort, and ensures efficient use of electrical energy by activating lights only when required. 
